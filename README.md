@@ -43,12 +43,20 @@ The dataset includes real estate features such as:
 
 ## 🧠 Skills & Tools Practiced
 
-- Data Cleaning & Preprocessing
-- Categorical Encoding (Label Encoding / One-Hot Encoding)
-- Feature Engineering
-- Linear Regression Modeling
-- Model Evaluation (RMSE, R² Score)
-- Data Visualization
+- Feature Selection & Engineering
+- Train/Test Split and Model Evaluation
+- Classification Algorithms
+- Model Comparison (Accuracy Score)
+- Hyperparameter Tuning (optional/future)
+- Data Visualization for Interpretability
+
+**Libraries Used**:
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+
 
 **Tech Stack**:
 - Python
