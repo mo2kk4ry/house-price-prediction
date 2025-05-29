@@ -57,15 +57,6 @@ The dataset includes real estate features such as:
 - Scikit-learn
 - Matplotlib, Seaborn
 
-
-**Tech Stack**:
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib / Seaborn
-
 ---
 
 ## 🧩 My Contributions
