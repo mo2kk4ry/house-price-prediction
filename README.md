@@ -78,4 +78,11 @@ While the core structure and concept were led by my mentor, I took part in:
 - 📈 Evaluating model accuracy and understanding its limitations
 - 🗂️ Documenting the project for educational and portfolio purposes
 
+## 📬 Contact
+
+**Sanaba Kante**  
+Email: [kantesanaba78@gmail.com](mailto:kantesanaba78@gmail.com)  
+Phone: +224 620 288 052  
+WhatsApp: +224 620 288 052  
+LinkedIn: [linkedin.com/in/sanaba-kante-70906830b](https://www.linkedin.com/in/sanaba-kante-70906830b)
 
